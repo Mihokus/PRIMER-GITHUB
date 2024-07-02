@@ -61,3 +61,8 @@ for palabra in Palabras_texto:
             Contador_palabras[palabras] += 1
 for llave, valor in Contador_palabras.items():
     print(f"{llave}:{valor}")
+
+
+print("HOLASASS")
+
+
